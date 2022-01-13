@@ -1,0 +1,1046 @@
+﻿department;semester;coursecode;coursename;credit
+Chemistry;1;CHEM 103;General Chemistry I;3
+Chemistry;1;CHEM 107;Int. To Practical Chemistry;3
+Chemistry;1;MATH 101;Calculus I;4
+Chemistry;1;PHYS 101;Physics I;4
+Chemistry;1;HSS --;HSS Elect.;3
+Chemistry;2;CHEM 104;General Chemistry II;3
+Chemistry;2;CHEM 108;Qualitative Analysis;4
+Chemistry;2;MATH 102;Calculus II;4
+Chemistry;2;PHYS 130;Ther. and Mod. Phys.;4
+Chemistry;2;HSS --;HSS Elect.;3
+Chemistry;3;CHEM 201;Organic Chem. I;4
+Chemistry;3;CHEM 203;Org. Chem. Lab I;2
+Chemistry;3;CHEM 245;Inorganic. Chem. I;3
+Chemistry;3;MATH 201;Matrix Theory;4
+Chemistry;3;PHYS 201;Physics III;4
+Chemistry;3;COMP --;Comp. Elective;3
+Chemistry;3;TK 221;Turkish I;2
+Chemistry;4;CHEM 202;Organic Chem. II;4
+Chemistry;4;CHEM 204;Org. Chem. Lab. II;2
+Chemistry;4;CHEM 242;Analytical Chem.;3
+Chemistry;4;CHEM 244;Analy. Chem. Lab.;2
+Chemistry;4;-- --;Unrestr. Elective;3
+Chemistry;4;HSS --;HSS Elect.;3
+Chemistry;4;TK 222;Turkish II;2
+Chemistry;5;CHEM 305;Inst. Analysis I;3
+Chemistry;5;CHEM 307;Inst. Analy. Lab. I;2
+Chemistry;5;CHEM 331;Inorganic Chemistry II;3
+Chemistry;5;CHEM 333;Inorganic. Chem. Lab.;2
+Chemistry;5;CHEM 351;Physical Chem. I;4
+Chemistry;5;HTR 311;Hist. Turk. Rep. I;2
+Chemistry;6;CHEM 308;Inst. Analysis II;4
+Chemistry;6;CHEM 352;Physical Chem. II;4
+Chemistry;6;CHEM 356;Physical Chem. Lab.;2
+Chemistry;6;CHEM 363;Organic Chem. III;3
+Chemistry;6;HSS --;HSS Elect.;3
+Chemistry;6;HTR 312;Hist. Turk. Rep. II;2
+Chemistry;7;CHEM 451;Physical Chem. III;3
+Chemistry;7;CHEM 415;General Biochemistry;4
+Chemistry;7;DEPT --;Dept. Elective;3
+Chemistry;7;COMP --;Comp. Elective;3
+Chemistry;7;--;Unrestr. Elective;3
+Chemistry;8;CHEM 402;Seminar;1
+Chemistry;8;CHEM 442;Org. Qual.Analysis;4
+Chemistry;8;DEPT --;Dept. Elective;3
+Chemistry;8;DEPT  --;Dept. Elective;3
+Chemistry;8;DEPT --;Dept. Elective;3
+Chemistry;8;HSS --;HSS Elect.;3
+Mathematics;1;MATH 131;Calculus of a single variable;4
+Mathematics;1;MATH 111;Int. to Math. Str.;4
+Mathematics;1;PHYS 101;Physics I;4
+Mathematics;1;-- --;Unrestr. Elective;3
+Mathematics;1;HSS --;HSS Elect.;3
+Mathematics;2;MATH 132;Calculus of several variables;4
+Mathematics;2;MATH 162;Discrete Math.;4
+Mathematics;2;PHYS 102;Physics II;4
+Mathematics;2;-- --;Unrestr. Elective;3
+Mathematics;2;HSS --;HSS Elect.;3
+Mathematics;3;MATH 221;Linear Algebra;4
+Mathematics;3;MATH 231;Advanced Calculus I;4
+Mathematics;3;PHYS 201;Physics III;4
+Mathematics;3;CmpE 150;Int. to Computing;3
+Mathematics;3;TK 221;Turkish I;2
+Mathematics;4;MATH 202;Differential Eq.;4
+Mathematics;4;MATH 222;Group Theory;4
+Mathematics;4;MATH 234;Advanced Calculus II;4
+Mathematics;4;HSS --;HSS Elect.;3
+Mathematics;4;TK 222;Turkish II;2
+Mathematics;5;MATH 323;Rings, Fields and Galois Theory;4
+Mathematics;5;MATH 331;Metric Spaces;4
+Mathematics;5;-- --;Unrestr. Elective;3
+Mathematics;5;HSS --;HSS Elect.;3
+Mathematics;5;HTR 311;Hist. of Turk. Rep. I;2
+Mathematics;6;MATH 338;Complex Analysis I;4
+Mathematics;6;MATH --;Math Elective;3
+Mathematics;6;MATH --;Math Elective;3
+Mathematics;6;HSS --;HSS Elect.;3
+Mathematics;6;-- --;Unrestr. Elective;3
+Mathematics;6;HTR 312;Hist. of Turk. Rep. II;2
+Mathematics;7;MATH --;Math Elective;3
+Mathematics;7;MATH --;Math Elective;3
+Mathematics;7;-- --;Unrestr. Elective;3
+Mathematics;7;-- --;Unrestr. Elective;3
+Mathematics;7;-- --;Unrestr. Elective;3
+Mathematics;8;MATH --;Math Elective;3
+Mathematics;8;MATH --;Math Elective;3
+Mathematics;8;MATH --;Math Elective;3
+Mathematics;8;-- --;Unrestr. Elective;3
+Mathematics;8;HSS --;HSS Elect.;3
+Turkish Language and Literature;1;TKL 101;Ottoman Turkish I;4
+Turkish Language and Literature;1;TKL 103;Turk. Lang. Gram. I;3
+Turkish Language and Literature;1;TKL 107;Int. Text. Analysis;3
+Turkish Language and Literature;1;LING 101;Int. to Language and Linguistics I;3
+Turkish Language and Literature;1;HSS --;HSS Elect.;3
+Turkish Language and Literature;2;TKL 102;Ottoman Turkish II;4
+Turkish Language and Literature;2;TKL 104;Turk.Lang. Gram II;3
+Turkish Language and Literature;2;TKL 108;Turkish Writing Techn.;3
+Turkish Language and Literature;2;HSS --;HSS Elect.;3
+Turkish Language and Literature;2;HSS --;HSS Elect.;3
+Turkish Language and Literature;3;TKL 201;Research Meth. in Turk. Lit.;3
+Turkish Language and Literature;3;TKL 204;Genres in Divan Lit;3
+Turkish Language and Literature;3;TKL 211;Mod. in Turk. Lit. I;3
+Turkish Language and Literature;3;TKL 213;Turkic Lang&Dial. I;3
+Turkish Language and Literature;3;HIST 235;Ottoman Cult. Hist.;3
+Turkish Language and Literature;3;PHIL 111;Int. to Anci. Med. Phil.;3
+Turkish Language and Literature;4;TKL 205;Methods of Analy. Divan Poet.;3
+Turkish Language and Literature;4;TKL 212;Modern. in Turk. Lit II;3
+Turkish Language and Literature;4;TKL 214;Turkic Lang.&Dialects II;3
+Turkish Language and Literature;4;TKL 217;Old Anatolian Turkish;3
+Turkish Language and Literature;4;PHIL 112;Int. to Modern Phil.;3
+Turkish Language and Literature;4;COMP --;Comp. Elective;3
+Turkish Language and Literature;5;TKL 301;Lit. Th. Prac. Crit.I;3
+Turkish Language and Literature;5;TKL 309;Turk. Poet. in the Repub. Period;3
+Turkish Language and Literature;5;TKL 311;Turk. Folk Lit. I;3
+Turkish Language and Literature;5;TKL 313;Divan Literature I;3
+Turkish Language and Literature;5;SCI --;Science Elective;3
+Turkish Language and Literature;5;HSS --;HSS Elect.;3
+Turkish Language and Literature;5;HTR 311;Hist. of Turk. Rep. I;2
+Turkish Language and Literature;6;TKL 302;Lit. Th. & Prac. Crit. II;3
+Turkish Language and Literature;6;TKL 312;Turk. Folk Literature II;3
+Turkish Language and Literature;6;TKL 314;Divan Literature II;3
+Turkish Language and Literature;6;LING 314;Syntax and Semantics of Modern Turkish;3
+Turkish Language and Literature;6;SCI --;Science Elective;3
+Turkish Language and Literature;6;HTR 312;Hist. of Turk. Rep. II;2
+Turkish Language and Literature;7;TKL 409;Prose in Old Turkish Literature;3
+Turkish Language and Literature;7;TKL 414;Tanzimat Novel;3
+Turkish Language and Literature;7;TKL 433;Short Story in Mod. Turkish Lit.;3
+Turkish Language and Literature;7;TKL --;Dept. Elective;3
+Turkish Language and Literature;7;-- --;Unrestr. Elective;3
+Turkish Language and Literature;7;-- --;Unrestr. Elective;3
+Turkish Language and Literature;8;HSS --;HSS Elect.;3
+Turkish Language and Literature;8;TKL 434;Novel in Modern Turkish Literature;3
+Turkish Language and Literature;8;TKL --;Dept. Elective;3
+Turkish Language and Literature;8;TKL --;Dept. Elective;3
+Turkish Language and Literature;8;-- --;Unrestr. Elective;3
+Turkish Language and Literature;8;-- --;Unrestr. Elective;3
+Physics;1;PHYS 101;Physics I;4
+Physics;1;CHEM 105;Fundamentals of Chemistry;4
+Physics;1;MATH 101;Calculus I;4
+Physics;1;PHYS 197;Analytical Methods in Physics;3
+Physics;1;AE 111;Critical Skills in English I;3
+Physics;2;PHYS 102;Physics II;4
+Physics;2;MATH 102;Calculus II;4
+Physics;2;-- --;Unrestr. Elective;3
+Physics;2;PHYS 198;Numerical Methods in Physics;3
+Physics;2;HSS;HSS Elect.;3
+Physics;3;PHYS 201;Physics III;4
+Physics;3;PHYS 221;Ther. Prop. of Mat.;3
+Physics;3;MATH 201;Matrix Theory;4
+Physics;3;EC 101;Principles of Microeconomics;3
+Physics;3;HSS --;HSS Elect.;3
+Physics;3;TK 221;Turkish I;2
+Physics;4;PHYS 202;Physics IV;4
+Physics;4;MATH 202;Differential Eq.;4
+Physics;4;EE 210;Int. to Electrical Eng.;3
+Physics;4;EC 102;Prin. of Macroeconomics;3
+Physics;4;HSS --;HSS Elect.;3
+Physics;4;TK 222;Turkish II;2
+Physics;5;PHYS 301;Classical Mechanics I;3
+Physics;5;PHYS 311;Modern Physics I;3
+Physics;5;PHYS 325;Math. Meth.of Phys.I;3
+Physics;5;PHYS 331;Electronics for Physics  I;3
+Physics;5;-- --;Unrestr. Elective;3
+Physics;5;HTR 311;Hist. Turk. Rep. I;2
+Physics;6;PHYS 302;Classical Mechanics II;3
+Physics;6;PHYS 312;Modern Physics II;3
+Physics;6;PHYS 326;Math. Meth. of Phys II;3
+Physics;6;PHYS 442;Experimental Phys.;4
+Physics;6;-- --;Unrestr. Elective;3
+Physics;6;HTR 312;Hist. Turk. Rep. II;2
+Physics;7;PHYS 401;Electromagnetism I;3
+Physics;7;PHYS 411;Quantum Mech. I;3
+Physics;7;PHYS 421;Statistical Mech. I;3
+Physics;7;PHYS 443;Experimental Phys I;4
+Physics;7;-- --;Unrestr. Elective;3
+Physics;8;PHYS 402;Electromagnetism II;3
+Physics;8;PHYS 412;Quantum Mechanics II;3
+Physics;8;PHYS --;Dept. Elective;3
+Physics;8;-- --;Unrestr. Elective;3
+Physics;8;-- --;Unrestr. Elective;3
+Philosophy;1;PHIL 101;Int. to Philosophy;3
+Philosophy;1;PHIL 131;Logic I;4
+Philosophy;1;SS --;Soc. Sciences Elect.;3
+Philosophy;1;PHIL 105;Informal Logic;4
+Philosophy;1;LL**;Literature Elective;3
+Philosophy;2;PHIL 106;Philosophical Texts;3
+Philosophy;2;PHIL 132;Logic II;4
+Philosophy;2;MATH --;Mathematics Elect.;4
+Philosophy;2;SS --;Soc. Sciences Elect.;3
+Philosophy;2;LL**;Literature Elective;3
+Philosophy;3;PHIL 213;History of Phil. I;3
+Philosophy;3;PHIL 273;Epistemology;3
+Philosophy;3;SCI Elec.***;Science Elective;3
+Philosophy;3;-- --;Unrestr. Elective;3
+Philosophy;3;-- --;Unrestr. Elective;3
+Philosophy;3;TK 221;Turkish;2
+Philosophy;4;PHIL 214;History of Phil. II;3
+Philosophy;4;PHIL 222;Phil. of Science;3
+Philosophy;4;SCI Elec.***;Science Elective;3
+Philosophy;4;-- --;Unrestr. Elective;3
+Philosophy;4;-- --;Unrestr. Elective;3
+Philosophy;4;TK 222;Turkish II;2
+Philosophy;5;PHIL 313;Hist. of Mod. Phil III;3
+Philosophy;5;PHIL 341;Ethics;3
+Philosophy;5;PHIL --;Dept. Elective;3
+Philosophy;5;-- --;Unrestr. Elective;3
+Philosophy;5;-- --;Unrestr. Elective;3
+Philosophy;5;HTR 311;Hist. of Turk. Rep.I;2
+Philosophy;6;PHIL 314;Hist. of Mod. Phil IV;3
+Philosophy;6;PHIL 382;Ontology;3
+Philosophy;6;PHIL --;Dept. Elective;3
+Philosophy;6;-- --;Unrestr. Elective;3
+Philosophy;6;-- --;Unrestr. Elective;3
+Philosophy;6;HTR 312;Hist. of Turk. Rep.II;2
+Philosophy;7;PHIL --;Dept. Elective;3
+Philosophy;7;PHIL --;Dept. Elective;3
+Philosophy;7;PHIL --;Dept. Elective;3
+Philosophy;7;-- --;Unrestr. Elective;3
+Philosophy;7;-- --;Unrestr. Elective;3
+Philosophy;8;PHIL --;Dept. Elective;3
+Philosophy;8;PHIL --;Dept. Elective;3
+Philosophy;8;PHIL --;Dept. Elective;3
+Philosophy;8;-- --;Unrestr. Elective;3
+Philosophy;8;-- --;Unrestr. Elective;3
+Economics;1;EC 101;Princ. of Microecon;3
+Economics;1;EC 103;Orient. to Econ.;1
+Economics;1;MATH 101;Calculus I;4
+Economics;1;AD 131;Int. to Law I;3
+Economics;1;POLS 101;Int. to Polit. Sci.;3
+Economics;1;SOC 101;Int. to Sociology;3
+Economics;1;HUM/AE --;Hum./Critical Skills in Eng. Elect*;3
+Economics;2;EC 102;Princ. of Macroecon.;3
+Economics;2;MATH 102;Calculus II;4
+Economics;2;CMPE 140;Int. to Comp for EC and AD;3
+Economics;2;PSY 101;Int. to Psychology;3
+Economics;2;-- --;Unrest. Elective;3
+Economics;2;-- --;Unrest. Elective;3
+Economics;3;EC 203;Microeconomics I;3
+Economics;3;EC 205;Macroeconomics I;3
+Economics;3;EC 223;Math. for Econ.;3
+Economics;3;EC 233;Math. Statistics I;3
+Economics;3;AD 211;Financ. Account. I;3
+Economics;3;TK 221;Turkish I;2
+Economics;4;EC 206;Microeconomics II;3
+Economics;4;EC 208;Macroeconomics II;3
+Economics;4;Ec 234;Math. Statistics II;3
+Economics;4;EC 213;Evol. of Economies and Econ.;3
+Economics;4;-- --;Unrestr. Elective;3
+Economics;4;TK 222;Turkish II;2
+Economics;5;EC 331;Econometrics;3
+Economics;5;EC --;Area Elective;3
+Economics;5;EC --;Area Elective;3
+Economics;5;EC --;Area Elective;3
+Economics;5;-- --;Unrestr. Elective;3
+Economics;5;HTR 311;Hist. of Turk. Rep. I;2
+Economics;6;EC --;Area Elective;3
+Economics;6;EC --;Area Elective;3
+Economics;6;EC --;Area Elective;3
+Economics;6;EC --;Area Elective;3
+Economics;6;-- --;Unrestr. Elective;3
+Economics;6;HTR 312;Hist. of Turk. Rep. II;2
+Economics;7;EC --;Area Elective;3
+Economics;7;EC --;Area Elective;3
+Economics;7;EC --;Area Elective;3
+Economics;7;-- --;Unrestr. Elective;3
+Economics;7;-- --;Unrestr. Elective;3
+Economics;8;EC 470;Turkish Economy;3
+Economics;8;EC --;Area Elective;3
+Economics;8;EC --;Area Elective;3
+Economics;8;-- --;Unrestr. Elective;3
+Economics;8;-- --;Unrestr. Elective;3
+Management;1;AD 102;Int.to Management;3
+Management;1;EC 101;Principles of Microeconomics;3
+Management;1;MATH 101;Calculus I;4
+Management;1;PSY 101;Int. to Psychology;3
+Management;1;SOC 101;Int. to Sociology;3
+Management;1;HSS --;HSS Elect.;3
+Management;2;AD 131;Int. to Law I;3
+Management;2;EC 102;Principles of Macroeconomics;3
+Management;2;MATH 102;Calculus II;4
+Management;2;POLS 101;Int. to Political Science;3
+Management;2;-- --;Unrestr. Elective;3
+Management;2;HSS --;HSS Elect.;3
+Management;3;AD 213;Financial Accounting;3
+Management;3;AD 220;Management of Organizations;3
+Management;3;AD 251;Statistics I;3
+Management;3;AD 231;Business Law;3
+Management;3;EC 203;Microeconomics I;3
+Management;3;CMPE 140;Intr. to Computing for Econ. and Mgmt;3
+Management;3;TK 221;Turkish;2
+Management;4;AD 214;Managerial Accounting;3
+Management;4;AD 242;Strategic Marketing Management;3
+Management;4;AD 252;Managerial Statistics II;3
+Management;4;AD 204;Business Communications;3
+Management;4;EC 205;Macroeconomics I;3
+Management;4;-- --;Unrestr. Elective;3
+Management;4;TK 222;Turkish;2
+Management;5;AD 311;Financial Management;3
+Management;5;AD 351;Operations Management;3
+Management;5;AD --;Dept. Elective;3
+Management;5;-- --;Unrestr. Elective;3
+Management;5;-- --;Unrestr. Elective;3
+Management;5;HTR 311;Ata. Pr. & Hist. Of Turk. Rev.;2
+Management;6;AD 312;Money and Banking;3
+Management;6;AD 353;Management Science;3
+Management;6;AD 302;Research Methods;3
+Management;6;AD --;Dept. Elective;3
+Management;6;-- --;Unrestr. Elective;3
+Management;6;HTR 312;Ata. Pr. & Hist. Of Turk. Rev.;2
+Management;7;AD 401;Globalization and International Mgmt.;3
+Management;7;AD 497;Bachelor of Arts Degree Project;3
+Management;7;AD 452;Information Sys. Management;3
+Management;7;AD --;Dept. Elective;3
+Management;7;AD --;Dept. Elective;3
+Management;8;AD 408;Strategic Management;3
+Management;8;AD 409;Business Ethics;3
+Management;8;AD --;Dept. Elective;3
+Management;8;AD --;Dept. Elective;3
+Management;8;AD --;Dept. Elective;3
+Political Science and International Relations;1;POLS 101;Int. to Political Sci.;3
+Political Science and International Relations;1;AD 131;Int. to Law;3
+Political Science and International Relations;1;EC 101;Principles of Microeconomics;3
+Political Science and International Relations;1;SOC 101;Int. to Sociology;3
+Political Science and International Relations;1;MATH 105;Int. to Calculus I;4
+Political Science and International Relations;1;HSS --;HSS Elect.;3
+Political Science and International Relations;2;POLS 102;Turkish Constitutional Law;3
+Political Science and International Relations;2;EC 102;Principles of Macroeconomics;3
+Political Science and International Relations;2;PSY 101;Int. to Psychology;3
+Political Science and International Relations;2;SOC 108;Soc. of Institutions;3
+Political Science and International Relations;2;MATH 106;Int. to Calculus II;4
+Political Science and International Relations;2;HSS --;HSS Elect.;3
+Political Science and International Relations;3;POLS 201;Hist. Pol. Thought I;3
+Political Science and International Relations;3;POLS 203;Social Statistics I;4
+Political Science and International Relations;3;POLS 215;Comparative Politics;3
+Political Science and International Relations;3;POLS 217;Diplomatic History;3
+Political Science and International Relations;3;COMP --;Comp. Elective;3
+Political Science and International Relations;3;TK 221;Turkish I;2
+Political Science and International Relations;4;POLS 202;Hist. Pol. Thought II;3
+Political Science and International Relations;4;POLS 206;Pol. Sci. Res. Meth.;4
+Political Science and International Relations;4;POLS 242;Int. to Intern. Relat.;3
+Political Science and International Relations;4;POLS 246;Int. to Turkish Pol.;3
+Political Science and International Relations;4;-- --;Unrestr. Elective;3
+Political Science and International Relations;4;TK 222;Turkish II;2
+Political Science and International Relations;5;POLS 303;Fund. of Pol. Econ.;3
+Political Science and International Relations;5;POLS --;Dept. Elective;3
+Political Science and International Relations;5;POLS --;Dept. Elective;3
+Political Science and International Relations;5;COMP --;Comp. Elective;3
+Political Science and International Relations;5;-- --;Unrestr. Elective;3
+Political Science and International Relations;5;HTR 311;Hist. of Turk. Rep.;2
+Political Science and International Relations;6;POLS 340;Foreign Policy;3
+Political Science and International Relations;6;POLS --;Dept. Elective;3
+Political Science and International Relations;6;POLS --;Dept. Elective;3
+Political Science and International Relations;6;POLS --;Dept. Elective.;3
+Political Science and International Relations;6;COMP --;Comp. Elective;3
+Political Science and International Relations;6;HTR 312;Hist. of Turk. Rep. II;2
+Political Science and International Relations;7;POLS --;Dept. Elective;3
+Political Science and International Relations;7;POLS --;Dept. Elective;3
+Political Science and International Relations;7;POLS --;Dept. Elective;3
+Political Science and International Relations;7;COMP --;Comp. Elective;3
+Political Science and International Relations;7;-- --;Unrestr. Elective;3
+Political Science and International Relations;8;POLS 472;Comp. Political Sys.;3
+Political Science and International Relations;8;POLS --;Dept. Elective;3
+Political Science and International Relations;8;POLS --;Dept. Elective;3
+Political Science and International Relations;8;COMP --;Comp. Elective;3
+Political Science and International Relations;8;-- --;Unrestr. Elective;3
+Computer Education and Educational Technology;1;CET 101;Intro. to Edu. Technology;4
+Computer Education and Educational Technology;1;MATH 101;Calculus I;4
+Computer Education and Educational Technology;1;AE 111;Critical Skills in English I;3
+Computer Education and Educational Technology;1;PHYS 101;Physics I;4
+Computer Education and Educational Technology;1;ED101;Introduction to Education;3
+Computer Education and Educational Technology;2;CET 102;Information Systems in Edu. and Information Design;4
+Computer Education and Educational Technology;2;MATH 102;Calculus II;4
+Computer Education and Educational Technology;2;AE 112;Critical Skills in English II;3
+Computer Education and Educational Technology;2;PHYS 130;Thermodynamics, Waves, Optics and Modern Physics;4
+Computer Education and Educational Technology;2;CMPE 150;Introduction to Computing;3
+Computer Education and Educational Technology;3;CET 215;Education and Technology;3
+Computer Education and Educational Technology;3;PHYS 201;Physics III;4
+Computer Education and Educational Technology;3;ED 221;Fundamentals of Guidance and Counseling;3
+Computer Education and Educational Technology;3;CMPE 210;Fundamentals of Object Oriented Programming;4
+Computer Education and Educational Technology;3;ED 211;Educational Psychology;3
+Computer Education and Educational Technology;3;TK 221;Turkish I;2
+Computer Education and Educational Technology;4;CHEM 103;General Chemistry I;3
+Computer Education and Educational Technology;4;CET 224;Visualization in Education;3
+Computer Education and Educational Technology;4;CET 282;Principles and Methods in Instruction;3
+Computer Education and Educational Technology;4;TK 222;Turkish II;2
+Computer Education and Educational Technology;4;HSS --;HSS Elect.;3
+Computer Education and Educational Technology;4;CHEM 109;General Chem. Lab;1
+Computer Education and Educational Technology;5;CET 301;Visual Programming Platforms in Education;3
+Computer Education and Educational Technology;5;CET 321;Introduction to Database Management Systems;3
+Computer Education and Educational Technology;5;CET 341;Instructional Design;3
+Computer Education and Educational Technology;5;ED 373;Measurement and Evaluation;3
+Computer Education and Educational Technology;5;HTR 311;History of the Turkish Rep. I;2
+Computer Education and Educational Technology;5;HSS --;HSS Elect.;3
+Computer Education and Educational Technology;6;CET 372;Design and Development of Multimedia;3
+Computer Education and Educational Technology;6;CET 314;Computer Networks and Communication;3
+Computer Education and Educational Technology;6;CET 322;Programming for Internet;4
+Computer Education and Educational Technology;6;-- --;Unrestr. Elective;3
+Computer Education and Educational Technology;6;HTR 312;History of the Turkish Republic II;2
+Computer Education and Educational Technology;7;CET 431;Project Development and Management;3
+Computer Education and Educational Technology;7;CET 441;Principles of Distance Education;3
+Computer Education and Educational Technology;7;CET 401;Research Methods;3
+Computer Education and Educational Technology;7;CET 451;School Experience;4
+Computer Education and Educational Technology;7;ED 401;Classroom Management;3
+Computer Education and Educational Technology;8;CET 444;Community Service in Educational Technology;3
+Computer Education and Educational Technology;8;CET 472;Courseware Development: Design, Development and Evaluation;3
+Computer Education and Educational Technology;8;CET 462;Practice Teaching in Computer Education;4
+Computer Education and Educational Technology;8;-- --;Unrestr. Elective;3
+Computer Education and Educational Technology;8;-- --;Unrestr. Elective;3
+Educational Sciences;1;ED 101;Introduction to Education;3
+Educational Sciences;1;ED 121;Freshman Orientation;2
+Educational Sciences;1;EC 101;Principles of Microeconomics;3
+Educational Sciences;1;SOC 101;Introduction to Sociology ;3
+Educational Sciences;1;MATH 105;Introduction to Finite Math.;4
+Educational Sciences;1;AE 111;Critical Studies in English I ;3
+Educational Sciences;2;ED 104;Social Found. of Education;3
+Educational Sciences;2;ED 132;Ethical Issues in Counseling;2
+Educational Sciences;2;PHIL  112;Intro. Modern Philosophy;3
+Educational Sciences;2;PSY 101;Introduction to Psychology I;3
+Educational Sciences;2;BIO 152;Introduction to Modern Biology;3
+Educational Sciences;2;HIST 105;Making of the Mod. World I;3
+Educational Sciences;3;ED 201;Intro. to Statistics;4
+Educational Sciences;3;ED 209;Lifespan Development;3
+Educational Sciences;3;ED 221;Fundamentals of Guid. & Coun.;3
+Educational Sciences;3;PSY 241;Social Psychology;3
+Educational Sciences;3;-- --;Unrestr. Elective;3
+Educational Sciences;3;TK 221;Turkish for Native Speakers I;2
+Educational Sciences;4;ED 208;Research Methodology;4
+Educational Sciences;4;ED 252;Educational Administration;3
+Educational Sciences;4;-- --;Unrestr. Elective;44289
+Educational Sciences;4;COMP --;Comp. Elective;3
+Educational Sciences;4;-- --;Unrestr. Elective;3
+Educational Sciences;4;TK 222;Turkish II;2
+Educational Sciences;5;ED 309;Applied Research;3
+Educational Sciences;5;ED 325;Theories of Personality;3
+Educational Sciences;5;ED 373;Measurement & Evaluation;3
+Educational Sciences;5;CET 360;Inst. Tech. Material & Dev.;3
+Educational Sciences;5;-- --;Unrestr. Elective;44289
+Educational Sciences;5;HTR 311;History of  the Turkish Republic I;2
+Educational Sciences;6;ED 330;Basic Counseling Skills;3
+Educational Sciences;6;ED 370;Program Development and Evaluation;4
+Educational Sciences;6;ED 378;Intro .to Assessment in Counseling;3
+Educational Sciences;6;-- --;Unrestr. Elective;3
+Educational Sciences;6;-- --;Unrestr. Elective;3
+Educational Sciences;6;HTR 312;History of the Turkish Republic II;2
+Educational Sciences;7;ED 401;Classroom Management;3
+Educational Sciences;7;ED 425;Group Dynamics and Counseling;3
+Educational Sciences;7;ED 429;Understanding Maladjustment;3
+Educational Sciences;7;ED 477;School Counseling Practicum I;4
+Educational Sciences;7;-- --;Unrestr. Elective;3
+Educational Sciences;8;ED 434;Advanced Counseling Skills;3
+Educational Sciences;8;ED 444;Psychoedu. Consultation;3
+Educational Sciences;8;ED 478;School Counseling Practicum II;4
+Educational Sciences;8;COMP --;Comp. Elective;3
+Educational Sciences;8;-- --;Unrestr. Elective;3
+Primary Education;1;PRED 101;Hist., Phil. and Princip. of Preschool Edu. I;3
+Primary Education;1;PRED 103;Theor. of Child Dev. I;3
+Primary Education;1;PRED 107;Children's Health and Human Phys. I;3
+Primary Education;1;PRED 120;Learning Academic Skills;3
+Primary Education;1;-- --;Unrestr. Elective;3
+Primary Education;1;AE 111;Critical Studies in Engl. I;3
+Primary Education;2;PRED 102;Hist., Phil. and Princip. of Preschool Edu. II;3
+Primary Education;2;PRED 104;Theor. of Child Dev. II;3
+Primary Education;2;ED 101;Intro. to Education;3
+Primary Education;2;PSY 101;Intro. to Psychology;3
+Primary Education;2;AE 112;Critical Studies in Engl. II;3
+Primary Education;3;PRED 211;Curriculum Development I;4
+Primary Education;3;ED 211;Educational Psychology;3
+Primary Education;3;ED 221;Fund. of Guidance and Counseling;3
+Primary Education;3;SOC 101;Introduction to Sociology;3
+Primary Education;3;HSS --;HSS Elect.;3
+Primary Education;3;TK 221;Turkish I;2
+Primary Education;4;PRED 210;Music and Movement in Early Childhood;3
+Primary Education;4;PRED 212;Curriculum II;4
+Primary Education;4;PRED 214;Language Dev. and Literacy in Early Years;3
+Primary Education;4;PRED 218;Applied Child Dev.;4
+Primary Education;4;PRED 234;Art Activities for Children;3
+Primary Education;4;TK 222;Turkish II;2
+Primary Education;5;PRED 313;Early Intervention: Theory and Practice;3
+Primary Education;5;PRED 317;Measurement and Eval. in Preschool Edu.;3
+Primary Education;5;PRED 325;Dev. Experiences in Math. and Science;3
+Primary Education;5;PRED 331;Special Edu. in Early Childhood and Prim. School Years I;3
+Primary Education;5;PRED 348;Community Service;2
+Primary Education;5;HSS --;HSS Elect.;3
+Primary Education;5;HTR 311;Hist. of Turk. Rep I;2
+Primary Education;6;PRED 320;Research Methods;4
+Primary Education;6;PRED 321;Children's Literature;3
+Primary Education;6;PRED 332;Special Edu. in Early Childhood and Primary School Years II;3
+Primary Education;6;PRED 380;Understanding and Guiding Children's Behaviour;3
+Primary Education;6;--;Unrestricted Elective;3
+Primary Education;6;HTR 312;Hist. of Turk. Rep II;2
+Primary Education;7;PRED 411;Applied Res. in Child Dev. & Family Issues;4
+Primary Education;7;PRED 413;Prac. Teach. in Preschool Ed. I;4
+Primary Education;7;PRED 420;Creative Drama Activities;3
+Primary Education;7;PRED 423;Data Processing;4
+Primary Education;7;--;Departmental Elective;3
+Primary Education;8;PRED 414;Practice Teaching in Preschool Education II;4
+Primary Education;8;PRED 416;Family Issues in Preschool Ed.;3
+Primary Education;8;PRED 422;Seminar on Practice Teaching II;4
+Primary Education;8;PRED 424;Reflective Teaching in Preschool Education;4
+Mathematics and Science Education;1;CHEM 103;General Chem. I;3
+Mathematics and Science Education;1;CHEM 107;Int. to Practical Chem.;3
+Mathematics and Science Education;1;MATH 101;Calculus I;4
+Mathematics and Science Education;1;PHYS 101;Physics I;4
+Mathematics and Science Education;1;ED 101;Intr. to Education;3
+Mathematics and Science Education;2;CHEM 104;General Chem. II;3
+Mathematics and Science Education;2;CHEM 108;Qualitative Analysis;4
+Mathematics and Science Education;2;MATH 102;Calculus II;4
+Mathematics and Science Education;2;PHYS 130;Ther. Waves, Optics & Mod. Phys.;4
+Mathematics and Science Education;2;AE111;Critical Skills I;3
+Mathematics and Science Education;3;BIO 101;General Biology I;3
+Mathematics and Science Education;3;CHEM 245;Inorganic Chemistry I;3
+Mathematics and Science Education;3;MATH 201;Matrix Theory;4
+Mathematics and Science Education;3;ED 211;Educational Psychology;3
+Mathematics and Science Education;3;TK 221;Turkish I;2
+Mathematics and Science Education;3;HSS --;HSS Elect.;3
+Mathematics and Science Education;4;PHYS 201;Physics III;4
+Mathematics and Science Education;4;CHEM 242;Analytical Chem.;3
+Mathematics and Science Education;4;CHEM 244;Analy. Chem. Lab;2
+Mathematics and Science Education;4;SCED 282;Principles and Meth. of Inst. in Math. and Sci.;3
+Mathematics and Science Education;4;SCED 240;Science, Technology & Society;3
+Mathematics and Science Education;4;TK 222;Turkish II;2
+Mathematics and Science Education;5;CHEM 201;Organic Chemistry I;4
+Mathematics and Science Education;5;CHEM 203;Organic Chem Lab.I;2
+Mathematics and Science Education;5;ED 221;Fund. of Guidance and Counseling;3
+Mathematics and Science Education;5;SCED 350;Sec. Sch. Science Lab. Applications. I;4
+Mathematics and Science Education;5;SCED 320;Teaching Methods in Science I;4
+Mathematics and Science Education;5;HTR 311;Hist. of Turk. Rep. I;2
+Mathematics and Science Education;6;CET 360;Inst. Tech. & Mat. Develop.;3
+Mathematics and Science Education;6;SCED 370;Measurement and Assessment in Math. & Sci. Ed.;3
+Mathematics and Science Education;6;CHEM 202;Organic Chem. II;4
+Mathematics and Science Education;6;CHEM 204;Organic Chem Lab.II;2
+Mathematics and Science Education;6;HTR 312;Hist. of Turk. Rep. II;2
+Mathematics and Science Education;6;COMP --;Comp. Elective;3
+Mathematics and Science Education;6;---;Unrestricted Elective;3
+Mathematics and Science Education;7;CHEM 351;Physical Chem. I;4
+Mathematics and Science Education;7;ED 401;Classroom Management;3
+Mathematics and Science Education;7;SCED 404;Research Methods in Mathematics and Science Education;4
+Mathematics and Science Education;7;SCED 421;Teaching Methods in Chemistry;3
+Mathematics and Science Education;7;SCED 450;Practice Teaching in Mathematics and Science;4
+Mathematics and Science Education;8;SCED 424;Current Trends in Chemistry Education;3
+Mathematics and Science Education;8;SCED 422;Practice Teaching in Chemistry;4
+Mathematics and Science Education;8;---;Phil./ Hist. of Science Elective;3
+Mathematics and Science Education;8;---;Environmental Science Elective;3
+Mathematics and Science Education;8;---;Chemistry Elective;3
+Mathematics and Science Education;8;COMP --;Comp. Elective;3
+Foreign Language Education;1;ED 101;Int. to Education;3
+Foreign Language Education;1;EL 101;Survey of Engl. Lit.I;3
+Foreign Language Education;1;FLED 103;Academic Writing;3
+Foreign Language Education;1;LING 101;Int. to Language and Linguistics I;3
+Foreign Language Education;1;PSY 101;Introduction to Psychology;3
+Foreign Language Education;2;EL 102;Survey of Eng. Lit. II;3
+Foreign Language Education;2;FLED 104;Critical Thinking into Writing;3
+Foreign Language Education;2;FLED 106;Developing Communicative Competence in English;3
+Foreign Language Education;2;-- --;Unrestr. Elective;3
+Foreign Language Education;2;HSS --;HSS Elect.;3
+Foreign Language Education;3;ED 211;Educational Psychology;3
+Foreign Language Education;3;ED 221;Fundamentals of Guidance and Counseling;3
+Foreign Language Education;3;FLED 201;Survey of Applied Linguistics;3
+Foreign Language Education;3;FLED 211;English Language Awareness;3
+Foreign Language Education;3;-- --;Unrestr. Elective;3
+Foreign Language Education;3;TK 221;Turkish I;2
+Foreign Language Education;4;FLED 212;Second Language Learning;3
+Foreign Language Education;4;FLED 216;Community Service Practices in EFL;3
+Foreign Language Education;4;FLED 218;Research Methods in Applied Linguistics;3
+Foreign Language Education;4;-- --;Unrestr. Elective;3
+Foreign Language Education;4;HSS --;HSS Elect.;3
+Foreign Language Education;4;TK 222;Turkish II;2
+Foreign Language Education;5;LING 313;Phonology and Morphology of Modern Turkish;3
+Foreign Language Education;5;FLED 311;Second Language Teaching Methods;3
+Foreign Language Education;5;FLED 315;Sociolinguistics and English Language Education;4
+Foreign Language Education;5;FLED 317;Theoretical Foundations of Language Skills;3
+Foreign Language Education;5;PRED 310;Special Education;3
+Foreign Language Education;5;HTR 311;History of Turkish Republic;2
+Foreign Language Education;6;AL 312;Survey of American Literature from late 19th Century to Present;3
+Foreign Language Education;6;CET 360;Instructional Technology and Material Development;3
+Foreign Language Education;6;FLED 302;Teaching Second Language Grammar;3
+Foreign Language Education;6;FLED 306;Childhood Bilingualism and Bilingual Education;3
+Foreign Language Education;6;FLED 318;Teaching Second Language Skills;3
+Foreign Language Education;6;-- --;Unrestricted Elective;3
+Foreign Language Education;6;HTR 312;History of Turkish Republic;2
+Foreign Language Education;7;ED 401;Classroom Management;3
+Foreign Language Education;7;FLED 403;School Experience in TEFL ;3
+Foreign Language Education;7;FLED 411;Technology Enhanced Language Teaching;4
+Foreign Language Education;7;FLED 413;Language Assessment;4
+Foreign Language Education;7;-- --;Area Elective;3
+Foreign Language Education;8;FLED 412;Practice Teaching in EFL;4
+Foreign Language Education;8;FLED 416;Seminar on Practice Teach.;4
+Foreign Language Education;8;-- --;Area Elective;3
+Foreign Language Education;8;-- --;Area Elective;3
+Foreign Language Education;8;-- --;Unrestricted Elective;3
+Foreign Language Education;8;-- --;Unrestricted Elective;3
+Chemical Engineering;1;CHE 110;Intro.Chem & Biosystems Eng.;3
+Chemical Engineering;1;CHEM 103;General Chemistry I;3
+Chemical Engineering;1;CHEM 109;Gen.Chem.Lab.*;1
+Chemical Engineering;1;CMPE 150;Intro. to Comp. (C);3
+Chemical Engineering;1;EC 101;Princ. of Microecon.;3
+Chemical Engineering;1;MATH 101;Calculus I;4
+Chemical Engineering;2;CHEM 104;General Chemistry II;3
+Chemical Engineering;2;EC 102;Intro. to Economics II;3
+Chemical Engineering;2;MATH 102;Calculus II;4
+Chemical Engineering;2;PHYS 121;Intro. to Mech. & Thermo.;4
+Chemical Engineering;2;HSS --;HSS Elect.;3
+Chemical Engineering;3;CHE 201;Physico Chem. Sys. I;3
+Chemical Engineering;3;CHE 203;Physicochem Sys.Lab.**;1
+Chemical Engineering;3;CHE 211;Mass and Energy Balances;4
+Chemical Engineering;3;CHEM 241;Organic Chem. for. Eng.;4
+Chemical Engineering;3;MATH 201;Matrix Theory;4
+Chemical Engineering;3;PHYS 201;Physics III;4
+Chemical Engineering;3;TK 221;Turkish I;2
+Chemical Engineering;4;CHE 202;Physico Chem.Sys.II;3
+Chemical Engineering;4;CHE 222;Intro. to Biosystems;3
+Chemical Engineering;4;CHE 232;Fluid Mechanics;3
+Chemical Engineering;4;MATH 202;Differential Eq.;4
+Chemical Engineering;4;ME 210;Material Science;3
+Chemical Engineering;4;TK 222;Turkish II;2
+Chemical Engineering;5;CHE 321;Chem. Eng.Thermodyn.;4
+Chemical Engineering;5;CHE 333;Heat Transfer;3
+Chemical Engineering;5;CHE 353;Chem.and Biochem. Processes;3
+Chemical Engineering;5;CHE 383;Prob.Stat.in Chem. Eng.App.;3
+Chemical Engineering;5;HTR 311;Hist. Of.Turkish Republic I;2
+Chemical Engineering;5;CC;Complementary Course;3
+Chemical Engineering;6;CHE 302;Chem. Eng. Lab.;3
+Chemical Engineering;6;CHE 334;Mass Trans.Operations;4
+Chemical Engineering;6;CHE 342;Reac.Kin.and Reac.Design;4
+Chemical Engineering;6;CHE 386;Modeling and Optimization;3
+Chemical Engineering;6;HTR 312;Hist.of Turkish Republic II;2
+Chemical Engineering;6;HSS --;HSS Elect.;3
+Chemical Engineering;7;CHE 401;Chem. Eng. and Biotechnology Lab.;3
+Chemical Engineering;7;CHE 433;Des.of. Chem. Proc. Units;3
+Chemical Engineering;7;CHE 475;Proc.Dyn. And Control;3
+Chemical Engineering;7;ChE--;Departmental Elective;3
+Chemical Engineering;7;ChE--;Departmental Elective;3
+Chemical Engineering;8;CHE 462;Plant Design and Economıcs;3
+Chemical Engineering;8;CHE 492;Project;4
+Chemical Engineering;8;ChE--;Departmental Elective;3
+Chemical Engineering;8;--;Unrestricted Elective;3
+Chemical Engineering;8;CC;Complementary Course;3
+Civil Engineering;1;MATH 101;Calculus I;4
+Civil Engineering;1;PHYS 101;Physics I;4
+Civil Engineering;1;CE 101;Int. to Civil Eng.;3
+Civil Engineering;1;CMPE 150;Int. to Computing;3
+Civil Engineering;1;EC 101;Princ.of Microec.;3
+Civil Engineering;2;MATH 102;Calculus II;4
+Civil Engineering;2;PHYS 130;Ther.&Modern Phys.;4
+Civil Engineering;2;CHEM 105;Fund. of Chem.;4
+Civil Engineering;2;ENG 110;Engineering Graphics;3
+Civil Engineering;2;EC 102;Princ. of Macroecon.;3
+Civil Engineering;3;MATH 201;Matrix Theory;4
+Civil Engineering;3;PHYS 201;Physics III;4
+Civil Engineering;3;CE 211;Materials Science;4
+Civil Engineering;3;CE 231;Earth Sciences;3
+Civil Engineering;3;CE 243;Statics;3
+Civil Engineering;3;TK 221;Turkish I;2
+Civil Engineering;4;MATH 202;Differential Equations;4
+Civil Engineering;4;CE 212;Engineering Materials;3
+Civil Engineering;4;CE 214;Fluid Mechanics;4
+Civil Engineering;4;CE 244;Dynamics;3
+Civil Engineering;4;CE 246;Strength of Materials;4
+Civil Engineering;4;TK 222;Turkish II;2
+Civil Engineering;5;CE 303;Int. to Prob. & Stat. for Civil Eng.;3
+Civil Engineering;5;CE 315;Hydraulic Engineering I;4
+Civil Engineering;5;CE 335;Soil Mechanics;4
+Civil Engineering;5;CE 355;Structural Analysis;4
+Civil Engineering;5;HSS --;HSS Elect.;3
+Civil Engineering;5;HTR 311;Hist. of Turk. Rep. I;2
+Civil Engineering;6;CE 322;Environmental Engineering;3
+Civil Engineering;6;CE 336;Foundation Engineering;4
+Civil Engineering;6;CE 354;Reinforced Concrete I;4
+Civil Engineering;6;CE 356;Steel Structures;3
+Civil Engineering;6;HSS --;HSS Elect.;3
+Civil Engineering;6;HTR 312;Hist. of Turk. Rep. II;2
+Civil Engineering;7;CE 401;Construction Eng. & Management;3
+Civil Engineering;7;CE 461;Transport Systems Eng;4
+Civil Engineering;7;CC --;Departmental Elective;3
+Civil Engineering;7;CC --;Departmental Elective;3
+Civil Engineering;7;CC --;Unrestricted Elective;3
+Civil Engineering;8;CE 402;Civil Eng. Systems Analysis;3
+Civil Engineering;8;CE 492;Project;4
+Civil Engineering;8;CC --;Departmental Elective;3
+Civil Engineering;8;CC --;Departmental Elective;3
+Civil Engineering;8;CC --;Unrestricted Elective;3
+Computer Engineering;1;MATH 101;Calculus I;4
+Computer Engineering;1;PHYS 121;Int.Mechanics& Thermo;4
+Computer Engineering;1;CHEM 105;General Chem.;4
+Computer Engineering;1;CMPE 150;Int. to Comp.;3
+Computer Engineering;1;EC 101;Princ. of Microecon.;3
+Computer Engineering;2;MATH 102;Calculus II;4
+Computer Engineering;2;PHYS 201;Physics III;4
+Computer Engineering;2;CMPE 160;Intermediate Prog.;4
+Computer Engineering;2;HSS --;HSS Elect.;3
+Computer Engineering;2;EC 102;Princ. of Macroecon.;3
+Computer Engineering;3;MATH 201;Calculus III;4
+Computer Engineering;3;PHYS 202;Physics IV;4
+Computer Engineering;3;EE 210;Electrical Eng.;3
+Computer Engineering;3;CMPE 220;Discrete Comp. Struct.;3
+Computer Engineering;3;CMPE 250;Data Structures and Algorithms;4
+Computer Engineering;3;TK 221;Turkish I;2
+Computer Engineering;4;MATH 202;Differential Eq.;4
+Computer Engineering;4;EE 212;Prin. of Electr. Eng.;3
+Computer Engineering;4;CMPE 230;Systems Prog.;4
+Computer Engineering;4;CMPE 240;Digital Systems;4
+Computer Engineering;4;CMPE 260;Princ.of Prog. Lang.;3
+Computer Engineering;4;TK 222;Turkish II;2
+Computer Engineering;5;CMPE 300;Analysis of Algorithms;3
+Computer Engineering;5;CMPE 322;Operating Systems;4
+Computer Engineering;5;CMPE 343;Intro. to Probability and Statistics for Comp. Eng.;3
+Computer Engineering;5;CMPE 344;Computer Organization;4
+Computer Engineering;5;IE 310;Operations Research;4
+Computer Engineering;5;HTR 311;Hist. Turk. Rep. I;2
+Computer Engineering;6;CMPE 321;Int. to Database Sys.;4
+Computer Engineering;6;CMPE 350;Formal Languages and Automata Theory;3
+Computer Engineering;6;CMPE 352;Fundamentals of Software Engineering;2
+Computer Engineering;6;CMPE 362;Intro. to Signals Processing for Comp. Engineers;3
+Computer Engineering;6;IE 306;System Simulation;4
+Computer Engineering;6;HTR 312;Hist. Turk. Rep. II;2
+Computer Engineering;7;CMPE 451;Project Dev. in Software Eng.;2
+Computer Engineering;7;CMPE 443;Principles of Embedded Systems Design;4
+Computer Engineering;7;CC --;Comp. Course;3
+Computer Engineering;7;CC --;Comp. Course;3
+Computer Engineering;7;CC --;Comp. Course;3
+Computer Engineering;8;CMPE 492;Project;4
+Computer Engineering;8;CC --;Comp. Course;3
+Computer Engineering;8;CC --;Comp. Course;3
+Computer Engineering;8;CC --;Comp. Course;3
+Computer Engineering;8;HSS --;HSS Elect.;3
+Mechanical Engineering;1;MATH 101;Calculus I;4
+Mechanical Engineering;1;PHYS 101;Physics I;4
+Mechanical Engineering;1;CHEM 105;General Chemistry;4
+Mechanical Engineering;1;CMPE 150;Int. to Comp. (C);3
+Mechanical Engineering;1;EC 101;Princ. of Microecon.;3
+Mechanical Engineering;2;MATH 102;Calculus II;4
+Mechanical Engineering;2;PHYS 130;Ther. & Mod. Phys.;4
+Mechanical Engineering;2;ME 120;Int. to Mech. Eng.;3
+Mechanical Engineering;2;ENG 110;Engineering Graphics;3
+Mechanical Engineering;2;EC 102;Princ. of Macroecon.;3
+Mechanical Engineering;3;MATH 201;Matrix Theory;4
+Mechanical Engineering;3;PHYS 201;Physics III;4
+Mechanical Engineering;3;ME 241;Statics;3
+Mechanical Engineering;3;EE 210;Electrical Eng.;3
+Mechanical Engineering;3;ME 207;Probability and Statistics for ME;3
+Mechanical Engineering;3;TK 221;Turkish I;2
+Mechanical Engineering;4;MATH 202;Differential Equations;4
+Mechanical Engineering;4;ME 212;Materials Science;4
+Mechanical Engineering;4;ME 242;Dynamics;3
+Mechanical Engineering;4;ME 244;Mechanics of Materials;4
+Mechanical Engineering;4;ME 263;Thermodynamics I;3
+Mechanical Engineering;4;TK 222;Turkish II;2
+Mechanical Engineering;5;ME 331;Mechatronics;3
+Mechanical Engineering;5;ME 303;Comp. App. in Mech. Eng.;3
+Mechanical Engineering;5;ME 324;Machine Design 1.;4
+Mechanical Engineering;5;ME 353;Fluid Mechanics I;4
+Mechanical Engineering;5;HSS --;HSS Elect.;3
+Mechanical Engineering;5;HTR 311;Hist. of Turk. Rep. I;2
+Mechanical Engineering;6;ME 304;Experimental Eng.;3
+Mechanical Engineering;6;ME 318;Manufacturing Tech.;4
+Mechanical Engineering;6;ME 335;Modeling and Control;4
+Mechanical Engineering;6;ME 362;Heat Transfer;4
+Mechanical Engineering;6;HSS --;HSS Elect.;3
+Mechanical Engineering;6;HTR 312;Hist. of Turk. Rep. II;2
+Mechanical Engineering;7;ME 424;Machine Design II;4
+Mechanical Engineering;7;ME 429;Mechanical and Thermal Design;4
+Mechanical Engineering;7;ME --;Option Course;3
+Mechanical Engineering;7;CC --;Comp. Course;3
+Mechanical Engineering;7;CC --;Comp. Course;3
+Mechanical Engineering;8;ME 492;Project;4
+Mechanical Engineering;8;ME --;Option Course;3
+Mechanical Engineering;8;ME --;Option Course;3
+Mechanical Engineering;8;CC --;Comp. Course;3
+Mechanical Engineering;8;-- --;Free Elective;3
+Electrical and Electronic Engineering;1;MATH 101;Calculus I;4
+Electrical and Electronic Engineering;1;CHEM 105;General Chemistry;4
+Electrical and Electronic Engineering;1;EC 101;Principles of Microeconomics ;3
+Electrical and Electronic Engineering;1;HUM 101;Cultural Encounters I;4
+Electrical and Electronic Engineering;1;MATH 201;Matrix Theory;4
+Electrical and Electronic Engineering;2;MATH 102;Calculus II;4
+Electrical and Electronic Engineering;2;PHYS 121;Int to Mech. & Ther.;4
+Electrical and Electronic Engineering;2;EE 101;Orientation to EE;3
+Electrical and Electronic Engineering;2;EC 102;Princ. of Macroecon.;3
+Electrical and Electronic Engineering;2;CMPE 150;Intro. to. Comp. (C);3
+Electrical and Electronic Engineering;3;MATH 202;Differential Equations;4
+Electrical and Electronic Engineering;3;PHYS 201;Physics III;4
+Electrical and Electronic Engineering;3;EE 201;Electrical Circuits ;4
+Electrical and Electronic Engineering;3;EE 271;Signals and Systems I;3
+Electrical and Electronic Engineering;3;EE 243;Digital Systems;2
+Electrical and Electronic Engineering;3;TK 221;Turkish I;2
+Electrical and Electronic Engineering;4;EE 214;Probability for EE;3
+Electrical and Electronic Engineering;4;PHYS 202;Physics IV;4
+Electrical and Electronic Engineering;4;EE 232;Electronic Devices;3
+Electrical and Electronic Engineering;4;EE 272;Signals and Systems II;3
+Electrical and Electronic Engineering;4;EE 244;Digital System Design;3
+Electrical and Electronic Engineering;4;TK 222;Turkish II;2
+Electrical and Electronic Engineering;5;E 333;Electronics I;3
+Electrical and Electronic Engineering;5;EE 335;Electronics Lab I;1
+Electrical and Electronic Engineering;5;EE 351;System Dynamics and Control;3
+Electrical and Electronic Engineering;5;EE 363;Electromag. Field Theory;3
+Electrical and Electronic Engineering;5;EE 371;Communication Engineering;3
+Electrical and Electronic Engineering;5;HTR 311;Hist. of Turk. Rep. I;2
+Electrical and Electronic Engineering;6;EE 304;Energy Conversion;3
+Electrical and Electronic Engineering;6;EE --;Departmental Elective;3
+Electrical and Electronic Engineering;6;EE --;Departmental Elective;3
+Electrical and Electronic Engineering;6;S --;Specified Elective2;3
+Electrical and Electronic Engineering;6;HSS --;HSS Elect.;3
+Electrical and Electronic Engineering;6;HTR 312;Hist. of Turk. Rep. II;2
+Electrical and Electronic Engineering;7;EE --;Departmental Elective;3
+Electrical and Electronic Engineering;7;EE --;Departmental Elective;3
+Electrical and Electronic Engineering;7;EE --;Departmental Elective;3
+Electrical and Electronic Engineering;7;COMP --;Comp. Elective;3
+Electrical and Electronic Engineering;7;COMP --;Comp. Elective;3
+Electrical and Electronic Engineering;8;EE --;Departmental Elective;3
+Electrical and Electronic Engineering;8;EE --;Departmental Elective;3
+Electrical and Electronic Engineering;8;EE 492;Project;4
+Electrical and Electronic Engineering;8;COMP --;Comp. Elective;3
+Electrical and Electronic Engineering;8;COMP --;Comp. Elective;3
+Industrial Engineering;1;MATH 101;Calculus I;4
+Industrial Engineering;1;MATH 201;Matrix Theory;4
+Industrial Engineering;1;PHYS 121;Introd. Mech. and Thermodyn.;4
+Industrial Engineering;1;ENGG 110;Engineering Graphics;3
+Industrial Engineering;1;AE 111;Critical Skills in English I, II /;3
+Industrial Engineering;2;MATH 102;Calculus II;4
+Industrial Engineering;2;PHYS 201;Physics III;4
+Industrial Engineering;2;CMPE 150;Introduction to Computing;3
+Industrial Engineering;2;CHEM 105;Fundamentals of Chemistry;4
+Industrial Engineering;2;IE 120;Ind. Eng.: Overview & Orient.;3
+Industrial Engineering;3;IE 201;Intermediate Programming;3
+Industrial Engineering;3;IE 202;Operations Research I;4
+Industrial Engineering;3;IE 255;Probability for IE;3
+Industrial Engineering;3;AD 216;Financial and Cost Accounting;4
+Industrial Engineering;3;EC 101;Principles of Microeconomics;3
+Industrial Engineering;3;TK 221;Turkish for Native Speakers I;2
+Industrial Engineering;4;MATH 202;Differential Equations;4
+Industrial Engineering;4;IE 203;Operations Research II;4
+Industrial Engineering;4;IE 220;Materials & Processes in Manufacturing;3
+Industrial Engineering;4;IE 256;Statistics for IE;3
+Industrial Engineering;4;EC 102;Principles of Macroeconomics;3
+Industrial Engineering;4;TK 222;Turkish for Native Speakers II;2
+Industrial Engineering;5;IE 306;Systems Simulation;4
+Industrial Engineering;5;IE 312;Facilities Design and Planning;4
+Industrial Engineering;5;IE 341;Engineering Economics;4
+Industrial Engineering;5;HSS --;HSS Elect.;3
+Industrial Engineering;5;HTR 311;History of Turkish Republic I;2
+Industrial Engineering;6;IE 313;Supply Chain Management;4
+Industrial Engineering;6;IE --;Departmental Elective;3
+Industrial Engineering;6;IE --;Departmental Elective;3
+Industrial Engineering;6;IE --;Departmental Elective;3
+Industrial Engineering;6;HSS --;HSS Elect.;3
+Industrial Engineering;6;HTR 312;History of Turkish Republic II;2
+Industrial Engineering;7;COMP --;Comp. Elective;3
+Industrial Engineering;7;IE 423;Quality Engineering;3
+Industrial Engineering;7;IE --;Departmental Elective;3
+Industrial Engineering;7;IE --;Departmental Elective;3
+Industrial Engineering;7;IE --;Departmental Elective;3
+Industrial Engineering;8;IE 492;Project;4
+Industrial Engineering;8;IE --;Departmental Elective;3
+Industrial Engineering;8;-- --;Unrestricted Elective;3
+Industrial Engineering;8;COMP --;Comp. Elective;3
+Industrial Engineering;8;HSS --;HSS Elect.;3
+International Trade;1;INTT 111;Economics I;3
+International Trade;1;INTT 121;Business Mathematics I;3
+International Trade;1;INTT 125;Information Systems for Trade;3
+International Trade;1;INTT 142;Legal Environment of Business;3
+International Trade;1;HSS --;HSS Elect.;3
+International Trade;1;-- --;Unrestricted Elective;3
+International Trade;1;AE 111/112;Critical Skills in English *;3
+International Trade;2;INTT 112;Economics II;3
+International Trade;2;INTT 122;Business Mathematics II;3
+International Trade;2;INTT 132;Management and Organizations;3
+International Trade;2;INTT 162;Creative Thinking and Innovation;3
+International Trade;2;HSS --;HSS Elect.;3
+International Trade;2;-- --;Unrestricted Elective;3
+International Trade;3;INTT 203;Financial Accounting;3
+International Trade;3;INTT 241;International Economic Law;3
+International Trade;3;INTT 227;Applied Statistics I;3
+International Trade;3;INTT 211;International Trade Theories and Policies;3
+International Trade;3;-- --;Unrestricted Elective;3
+International Trade;3;TK 221;Turkish ;2
+International Trade;4;INTT 277;Financial Decision Making;3
+International Trade;4;INTT 212;Exchange Rate Regimes and Trade;3
+International Trade;4;INTT 228;Applied Statistics II;3
+International Trade;4;INTT 252;Principles of Marketing;3
+International Trade;4;INTT 254;International Trade Operations;3
+International Trade;4;-- --;Unrestricted Elective;3
+International Trade;4;TK 222;Turkish ;2
+International Trade;5;INTT 321;Quantitative Analysis and Applications;3
+International Trade;5;INTT 333;International Management;3
+International Trade;5;INTT 355;E-commerce;3
+International Trade;5;INTT 375;Risk and Insurance;3
+International Trade;5;HTR 311;Ata.Pr.&Hist.of Turkish Rev.;2
+International Trade;6;INTT 322;Operations and Supply Chain Management;3
+International Trade;6;INTT 323;Research Methodology;3
+International Trade;6;INTT 334;Business Ethics;3
+International Trade;6;INTT 362;Economic Integration and EU;3
+International Trade;6;INTT 378;Trade Financing;3
+International Trade;6;HTR 312;Ata.Pr.&Hist.of Turkish Rev.;2
+International Trade;7;INTT 467;Politics of Globalization;3
+International Trade;7;INTT 459;International Marketing;3
+International Trade;7;INTT 425;International Logistics;3
+International Trade;8;INTT 434;Business Development and Entrepreneurship;3
+International Trade;8;INTT 442;Competition Law;3
+International Trade;8;INTT 438;International Negotiations;3
+Management Information Systems;1;MIS 111;Economics I;3
+Management Information Systems;1;MIS 113;Manag. and Org.;3
+Management Information Systems;1;MIS 125;Int. to Info. Sys. & Tech.;4
+Management Information Systems;1;MIS 131;Intro. to Algorithms and Prog.;4
+Management Information Systems;1;MIS 143;Business Mathematics I;3
+Management Information Systems;1;-- --;Unrestricted Elective;3
+Management Information Systems;2;MIS 112;Economics II;3
+Management Information Systems;2;MIS 116;Principles of Marketing;3
+Management Information Systems;2;MIS 132;Object Oriented Programming;4
+Management Information Systems;2;MIS 134;Introduction to Database;3
+Management Information Systems;2;MIS 144;Business Mathematics II;3
+Management Information Systems;2;-- --;Unrestricted Elective;3
+Management Information Systems;3;MIS 211;Financial Accounting;3
+Management Information Systems;3;MIS 213;Statistics;3
+Management Information Systems;3;MIS 233;Web Based Application Programming;4
+Management Information Systems;3;MIS 251;Information Technology Infrastructures;3
+Management Information Systems;3;HSS --;HSS Elect.;3
+Management Information Systems;3;TK 221;Turkish I;2
+Management Information Systems;4;MIS 212;Managerial Accounting;3
+Management Information Systems;4;MIS 224;Research Methodology;3
+Management Information Systems;4;MIS 228;Managerial Communication;3
+Management Information Systems;4;MIS 252;Business DataCommunications;3
+Management Information Systems;4;HSS --;HSS Elect.;3
+Management Information Systems;4;TK 222;Turkish II;2
+Management Information Systems;5;MIS 321;System Analysis and Design;3
+Management Information Systems;5;MIS 331;Data Mining;3
+Management Information Systems;5;MIS 335;Database Systems;4
+Management Information Systems;5;MIS 353;Cyber Law;3
+Management Information Systems;5;COMP --;Comp. Elective;3
+Management Information Systems;5;HTR 311;Ata Pr. & Hist. of Turkish Rev.;2
+Management Information Systems;6;MIS 316;Finance;3
+Management Information Systems;6;MIS 326;Object Oriented Modeling;3
+Management Information Systems;6;MIS 336;Business Application Development;2
+Management Information Systems;6;MIS 344;Quant. Analy. for Dec.Making;3
+Management Information Systems;6;MIS 346;Enterprise Information Systems;3
+Management Information Systems;6;HTR 312;Ata Pr. & Hist. of Turkish Rev.;2
+Management Information Systems;7;MIS 433;Information Syst. Project Management;3
+Management Information Systems;7;MIS 441;Customer Relationship Management;3
+Management Information Systems;7;MIS 463;Decision Support Sys. for Business;3
+Management Information Systems;7;MIS 481;Senior Seminars in MIS;1
+Management Information Systems;7;MIS --;Departmental Elect.;3
+Management Information Systems;7;MIS --;Departmental Elect.;3
+Management Information Systems;8;MIS 422;E-Business Management;3
+Management Information Systems;8;MIS 432;Supply Chain Management;3
+Management Information Systems;8;MIS 492;Project;4
+Management Information Systems;8;MIS --;Departmental Elect.;3
+Management Information Systems;8;MIS --;Departmental Elect.;3
+Tourism Administration;1;TRM 101;Intro. to Tourism Ind.;3
+Tourism Administration;1;TRM 107;Anatolian Civilizations;3
+Tourism Administration;1;TRM 111;Economics I;3
+Tourism Administration;1;TRM 141;Intro. to Psychology;3
+Tourism Administration;1;TRM 151;Business Math.;3
+Tourism Administration;1;HSS --;HSS Elect.;3
+Tourism Administration;2;TRM 104;Environment and Tourism;3
+Tourism Administration;2;TRM 108;Information Systems for Tourism Industry;3
+Tourism Administration;2;TRM 112;Economics II;3
+Tourism Administration;2;TRM 124;Business Comm.;3
+Tourism Administration;2;TRM 134;Princ. of Management;3
+Tourism Administration;2;HSS --;HSS Elect.;3
+Tourism Administration;3;TRM 223;Accommodation Industry;3
+Tourism Administration;3;TRM 231;Financial Accounting;3
+Tourism Administration;3;TRM 241;Introduction to Law;3
+Tourism Administration;3;TRM 257;Applied Statistics I;3
+Tourism Administration;3;TRM 263;Princ. of Marketing;3
+Tourism Administration;3;-- --;Unrestricted Elective;3
+Tourism Administration;3;TK 221;Turkish I;2
+Tourism Administration;4;TRM 224;Interpersonal Communication;3
+Tourism Administration;4;TRM 232;Manag. Accounting for Tourism Industry;3
+Tourism Administration;4;TRM 242;Tourism Law;3
+Tourism Administration;4;TRM 258;Applied Statistics II;3
+Tourism Administration;4;TRM 282;Travel Industry;3
+Tourism Administration;4;-- --;Unrestricted Elective;3
+Tourism Administration;4;TK 222;Turkish II;2
+Tourism Administration;5;TRM 331;Management of Human Resources;3
+Tourism Administration;5;TRM 335;Intro. to Finance;3
+Tourism Administration;5;TRM 355;Research Methodology;3
+Tourism Administration;5;-- --;Unrestricted Elective;3
+Tourism Administration;5;-- --;Unrestricted Elective;3
+Tourism Administration;5;HTR 311;Hist. of Turk. Rep. I;2
+Tourism Administration;6;TRM 336;Organiz. Behaviour;3
+Tourism Administration;6;TRM 364;Services Marketing;3
+Tourism Administration;6;TRM 378;Food Services Management;3
+Tourism Administration;6;-- --;Unrestricted Elective;3
+Tourism Administration;6;-- --;Unrestricted Elective;3
+Tourism Administration;6;HTR 312;Hist. of Turk. Rep. II;2
+Tourism Administration;7;TRM 405;Conventions and Special Events;3
+Tourism Administration;7;TRM 409;Business Ethics;3
+Tourism Administration;7;TRM 413;Tourism Destination Development;3
+Tourism Administration;7;-- --;Unrestricted Elective;3
+Tourism Administration;7;-- --;Unrestricted Elective;3
+Tourism Administration;8;TRM 408;Operations Research for Service Industry;3
+Tourism Administration;8;TRM 472;Business Strategy;3
+Tourism Administration;8;TRM 492;Tourism Research Topics;3
+Tourism Administration;8;-- --;Unrestricted Elective;3
+Tourism Administration;8;-- --;Unrestricted Elective;3
+Advanced English Unit;1;ENGL 105;Int. to Lit. Forms I.;3
+Advanced English Unit;1;ENGL 111;Expository Writing;3
+Advanced English Unit;1;EL 101;Survey of Engl. Lit. from Old Engl. Period to Rest.;3
+Advanced English Unit;1;HUM 101;Cult. Encounters;4
+Advanced English Unit;1;PSY 101;Int. to Psychology I;3
+Advanced English Unit;2;ENGL 106;Int. to Lit. Forms II;3
+Advanced English Unit;2;CL 104;Classical Lit.;3
+Advanced English Unit;2;EL 102;Survey of Engl. Lit. from Rest. to Present;3
+Advanced English Unit;2;HUM 102;Cult. Encounters II;4
+Advanced English Unit;2;LING 101;Int. to Lang.& Ling.;3
+Advanced English Unit;3;CL 205;Lit. Theory & Critic. I;3
+Advanced English Unit;3;EL 201;Medieval Engl. Lit.;3
+Advanced English Unit;3;PHIL 111;Intro. to A&M Phil.;3
+Advanced English Unit;3;-- --;Unrestricted Elective;3
+Advanced English Unit;3;-- --;Unrestricted Elective;3
+Advanced English Unit;3;TK 221;Turkish I;2
+Advanced English Unit;4;CL 206;Lit. Theory & Critic. II;3
+Advanced English Unit;4;EL 202;The Engl. Renaissance;3
+Advanced English Unit;4;PHIL 112;Intro. to Mod. Phil.;3
+Advanced English Unit;4;-- --;Unrestricted Elective;3
+Advanced English Unit;4;HSS --;HSS Elect.;3
+Advanced English Unit;4;TK 222;Turkish II;2
+Advanced English Unit;5;AL 311;Survey of Amer. Lit. from 17th to 19th Century;3
+Advanced English Unit;5;CL 307;Lit. Theory&Critic. III;3
+Advanced English Unit;5;EL 303;Restorat.&August. Lit.;3
+Advanced English Unit;5;HIST --;History Elective;3
+Advanced English Unit;5;-- --;Unrestricted Elective;3
+Advanced English Unit;5;HSS --;HSS Elect.;3
+Advanced English Unit;5;HTR 311;Hist. of Turk. Rep. I;2
+Advanced English Unit;6;AL 312;Survey of Amer. Lit. from late 19th Century to Present;3
+Advanced English Unit;6;EL 305;Studies in Shakespeare;3
+Advanced English Unit;6;EL 306;The Romantics;3
+Advanced English Unit;6;HIST --;History Elective;3
+Advanced English Unit;6;-- --;Unrestricted Elective;3
+Advanced English Unit;6;-- --;Unrestricted Elective;3
+Advanced English Unit;6;HTR 312;Hist. of Turk. Rep. II;2
+Advanced English Unit;7;DRA 403;Modern Drama;3
+Advanced English Unit;7;EL405;Victor. Poetry&Prose;3
+Advanced English Unit;7;-- --;Unrestricted Elective;3
+Advanced English Unit;7;-- --;Unrestricted Elective;3
+Advanced English Unit;7;HSS -- ;HSS Elect.;3
+Advanced English Unit;8;EL 402;Modern Novel;3
+Advanced English Unit;8;EL 408;Modern Poetry;3
+Advanced English Unit;8;EL 412;Senior Thesis;3
+Advanced English Unit;8;EE --;Departmental Elective;3
+Advanced English Unit;8;HSS --;HSS Elect.;3
+English Preparatory Division;1;A1;A1 Level English;0
+English Preparatory Division;2;A2;A2 Level English;0
+English Preparatory Division;3;B1;B1 Level English;0
+English Preparatory Division;4;B2;B2 Level English;0
+English Preparatory Division;5;C1;C1 Level English;0
+English Preparatory Division;6;C2;C2 Level English;0

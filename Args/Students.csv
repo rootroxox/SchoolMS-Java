@@ -1,0 +1,241 @@
+﻿name;surname;id;class;faculty;department;advisor(id)
+Fatma ozlem;Acar;10000;3;The Faculty of Arts and Sciences;Chemistry;20000
+ozde;Acarkan;10001;1;The Faculty of Arts and Sciences;Chemistry;20000
+Atahan;Adanir;10002;3;The Faculty of Arts and Sciences;Chemistry;20000
+Haci Mehmet;Adiguzel;10003;4;The Faculty of Arts and Sciences;Chemistry;20000
+Mukerrem Zeynep;Agca;10004;4;The Faculty of Arts and Sciences;Chemistry;20000
+Bestami;Agiragac;10005;4;The Faculty of Arts and Sciences;Chemistry;20000
+Aykanat;Agiroglu;10006;3;The Faculty of Arts and Sciences;Chemistry;20000
+sennur;Agnar;10007;3;The Faculty of Arts and Sciences;Chemistry;20000
+Tutkum;Ahmadi Asl;10008;4;The Faculty of Arts and Sciences;Chemistry;20000
+Mugenur;Ahmet;10009;2;The Faculty of Arts and Sciences;Chemistry;20000
+Sevinc;Ak;10010;2;The Faculty of Arts and Sciences;Mathematics;20001
+Kayihan Nedim;Akarcali;10011;1;The Faculty of Arts and Sciences;Mathematics;20001
+Lemi;Akarcay;10012;4;The Faculty of Arts and Sciences;Mathematics;20001
+Cihan;Akarpinar;10013;4;The Faculty of Arts and Sciences;Mathematics;20001
+Rafi;Akas;10014;1;The Faculty of Arts and Sciences;Mathematics;20001
+Mehmetcan;Akay;10015;4;The Faculty of Arts and Sciences;Mathematics;20001
+Nuhaydar;Akbilmez;10016;1;The Faculty of Arts and Sciences;Mathematics;20001
+Emine Munevver;Akca;10017;2;The Faculty of Arts and Sciences;Mathematics;20001
+Servet;Akcagunay;10018;1;The Faculty of Arts and Sciences;Mathematics;20001
+cilem;Akcay;10019;4;The Faculty of Arts and Sciences;Mathematics;20001
+Recep Ali Samet;Akdogan;10020;2;The Faculty of Arts and Sciences;Philosophy;20004
+Emre Ayberk;Akfirat;10021;1;The Faculty of Arts and Sciences;Philosophy;20004
+Kerime Hacer;Akilli;10022;1;The Faculty of Arts and Sciences;Philosophy;20004
+Ercument;Akincilar;10023;3;The Faculty of Arts and Sciences;Philosophy;20004
+Sarper;Akis;10024;1;The Faculty of Arts and Sciences;Philosophy;20004
+Berker;Akkiray;10025;1;The Faculty of Arts and Sciences;Philosophy;20004
+Iclal;Akkoyun;10026;3;The Faculty of Arts and Sciences;Philosophy;20004
+Lemis;Akkut;10027;3;The Faculty of Arts and Sciences;Philosophy;20004
+Ahmet Polat;Aklar corekci;10028;2;The Faculty of Arts and Sciences;Philosophy;20004
+Ata Kerem;Akman;10029;2;The Faculty of Arts and Sciences;Philosophy;20004
+Ahmet Rasit;Akoguz;10030;1;The Faculty of Arts and Sciences;Physics;20003
+Ecem Hatice;Akova;10031;3;The Faculty of Arts and Sciences;Physics;20003
+Nuket;Aksan;10032;1;The Faculty of Arts and Sciences;Physics;20003
+Senem;Aksevim;10033;2;The Faculty of Arts and Sciences;Physics;20003
+Aysen;Aksoy;10034;4;The Faculty of Arts and Sciences;Physics;20003
+Pekcan;Aksoz;10035;3;The Faculty of Arts and Sciences;Physics;20003
+Bedirhan Lutfu;Aksamoglu;10036;2;The Faculty of Arts and Sciences;Physics;20003
+Semina;Aktuna;10037;3;The Faculty of Arts and Sciences;Physics;20003
+Eda Sena;Akyildiz;10038;1;The Faculty of Arts and Sciences;Physics;20003
+Muyesser;Akyildirim;10039;4;The Faculty of Arts and Sciences;Physics;20003
+Selinti;Al;10040;4;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+Bahar ozlem;Albas;10041;2;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+Ilma;Aldag;10042;3;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+Kutlu;Alibeyoglu;10043;3;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+Nesibe Nurefsan;Alkan;10044;4;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+omer Bugra;Alparslan;10045;4;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+Hiba;Alpugan;10046;3;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+Mazlum;Altan;10047;4;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+Elif Tugce;Altas;10048;2;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+Ahmet Ruken;Altay;10049;1;The Faculty of Arts and Sciences;Turkish Language and Literature;20002
+Yasar Utku Anil;Altin;10050;2;The Faculty of Economics and Administrative Sciences;Economics;20005
+Rana;Altinoklu;10051;1;The Faculty of Economics and Administrative Sciences;Economics;20005
+Fethullah;Altinoz;10052;1;The Faculty of Economics and Administrative Sciences;Economics;20005
+Burak Tatkan;Altintas;10053;1;The Faculty of Economics and Administrative Sciences;Economics;20005
+Merve Ece;Altiok;10054;3;The Faculty of Economics and Administrative Sciences;Economics;20005
+Rima;Altiparmak;10055;4;The Faculty of Economics and Administrative Sciences;Economics;20005
+Elif Dilay;Altinkaya;10056;3;The Faculty of Economics and Administrative Sciences;Economics;20005
+Sirma Begum;Altunbas;10057;4;The Faculty of Economics and Administrative Sciences;Economics;20005
+Nefse;Altunbulak;10058;4;The Faculty of Economics and Administrative Sciences;Economics;20005
+Busra Gul;Altundal;10059;2;The Faculty of Economics and Administrative Sciences;Economics;20005
+Erna;Aluc;10060;2;The Faculty of Economics and Administrative Sciences;Management;20006
+Hikmet Nazli;Alver;10061;2;The Faculty of Economics and Administrative Sciences;Management;20006
+Ismail Umut;Anik;10062;3;The Faculty of Economics and Administrative Sciences;Management;20006
+Ilkay Ramazan;Ankara;10063;1;The Faculty of Economics and Administrative Sciences;Management;20006
+Nebahat;Ansen;10064;1;The Faculty of Economics and Administrative Sciences;Management;20006
+Ilyas Umut;Apul;10065;1;The Faculty of Economics and Administrative Sciences;Management;20006
+Halim;Aral;10066;1;The Faculty of Economics and Administrative Sciences;Management;20006
+Yasin sukru;Arap;10067;1;The Faculty of Economics and Administrative Sciences;Management;20006
+Cansev;Arat;10068;4;The Faculty of Economics and Administrative Sciences;Management;20006
+Memet Ali;Ardic;10069;3;The Faculty of Economics and Administrative Sciences;Management;20006
+Deniz Dilay;Arican;10070;3;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+Izlem;Arinc;10071;3;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+oget;Arif;10072;2;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+seyda Nur;Arikan;10073;2;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+Zeki Yigithan;Armutcu;10074;2;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+Nunazli;Arpaci;10075;2;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+Ferdacan;Aruca;10076;3;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+serife;Asil;10077;2;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+Mustafa Burhan;Askin;10078;4;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+Eylem;Gunduz;10079;2;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;20007
+Ilim;Aslanturk;10080;1;The Faculty of Education;Computer Education and Educational Technology;20008
+Sevginur;Asci;10081;3;The Faculty of Education;Computer Education and Educational Technology;20008
+Hayrunnisa;Asveren;10082;3;The Faculty of Education;Computer Education and Educational Technology;20008
+Hanife Duygu;Ata;10083;2;The Faculty of Education;Computer Education and Educational Technology;20008
+Sevtap;Atan;10084;2;The Faculty of Education;Computer Education and Educational Technology;20008
+Paksoy;Ates;10085;4;The Faculty of Education;Computer Education and Educational Technology;20008
+Ilkim;Atescan;10086;1;The Faculty of Education;Computer Education and Educational Technology;20008
+Rubabe Gokcen;Atli;10087;3;The Faculty of Education;Computer Education and Educational Technology;20008
+Saba;Atmaca;10088;4;The Faculty of Education;Computer Education and Educational Technology;20008
+cisem;Atok;10089;4;The Faculty of Education;Computer Education and Educational Technology;20008
+Sabiha Elvan;Atol;10090;1;The Faculty of Education;Educational Sciences;20009
+Edip;Attila;10091;4;The Faculty of Education;Educational Sciences;20009
+Almina;Avci ozsoy;10092;4;The Faculty of Education;Educational Sciences;20009
+Saime;Aviandi;10093;1;The Faculty of Education;Educational Sciences;20009
+Nehar;Avsar;10094;1;The Faculty of Education;Educational Sciences;20009
+Kaan Muharrem;Ay;10095;3;The Faculty of Education;Educational Sciences;20009
+Murat Kaan;Ayanoglu;10096;4;The Faculty of Education;Educational Sciences;20009
+Murat Sinan;Ayaz;10097;4;The Faculty of Education;Educational Sciences;20009
+Ates;Ayci;10098;3;The Faculty of Education;Educational Sciences;20009
+Zeynep Nihan;Aydinlioglu;10099;2;The Faculty of Education;Educational Sciences;20009
+Kerime;Aydogan Yozgat;10100;3;The Faculty of Education;Foreign Language Education;20012
+Hami;Aydogdu;10101;1;The Faculty of Education;Foreign Language Education;20012
+Thomas;Aygen;10102;3;The Faculty of Education;Foreign Language Education;20012
+Gunes;Aykan;10103;3;The Faculty of Education;Foreign Language Education;20012
+Elif Feyza;Ayrim;10104;1;The Faculty of Education;Foreign Language Education;20012
+Ugur Ali;Aysal;10105;3;The Faculty of Education;Foreign Language Education;20012
+Osman Yasin;Aysan;10106;2;The Faculty of Education;Foreign Language Education;20012
+Adem;Ayvacik;10107;2;The Faculty of Education;Foreign Language Education;20012
+Sera Cansin;Azbay;10108;2;The Faculty of Education;Foreign Language Education;20012
+Ali Ismail;Babacan;10109;4;The Faculty of Education;Foreign Language Education;20012
+Ruhugul;Babadostu;10110;2;The Faculty of Education;Mathematics and Science Education;20011
+Alcicek;Bad;10111;1;The Faculty of Education;Mathematics and Science Education;20011
+Memet;Bagci;10112;4;The Faculty of Education;Mathematics and Science Education;20011
+Mercan;Bagcivan;10113;3;The Faculty of Education;Mathematics and Science Education;20011
+Gokay;Bagis;10114;1;The Faculty of Education;Mathematics and Science Education;20011
+Pirilti;Bahceli;10115;3;The Faculty of Education;Mathematics and Science Education;20011
+ozgun;Bahtiyar;10116;1;The Faculty of Education;Mathematics and Science Education;20011
+ozgen;Baka;10117;1;The Faculty of Education;Mathematics and Science Education;20011
+Seung Hun;Baki;10118;3;The Faculty of Education;Mathematics and Science Education;20011
+Gulser;Bal;10119;3;The Faculty of Education;Mathematics and Science Education;20011
+Yuksel;Balci;10120;1;The Faculty of Education;Primary Education;20010
+Ecren;Baldo;10121;3;The Faculty of Education;Primary Education;20010
+Muhammet Rasit;Bali;10122;4;The Faculty of Education;Primary Education;20010
+Sakip;Balioglu;10123;2;The Faculty of Education;Primary Education;20010
+Kazim;Balta;10124;1;The Faculty of Education;Primary Education;20010
+Abdullah Atakan;Baluken;10125;4;The Faculty of Education;Primary Education;20010
+Coskun;Baran;10126;3;The Faculty of Education;Primary Education;20010
+Serdar Kaan;Barbaros;10127;4;The Faculty of Education;Primary Education;20010
+Ezel;Bargan;10128;3;The Faculty of Education;Primary Education;20010
+Aysegul;Barutcuoglu;10129;4;The Faculty of Education;Primary Education;20010
+Sefa Kadir;Basar;10130;3;The Faculty of Engineering;Chemical Engineering;20013
+Elif Etga;Basegmez;10131;2;The Faculty of Engineering;Chemical Engineering;20013
+Balin;Bastepe;10132;1;The Faculty of Engineering;Chemical Engineering;20013
+Mahperi;Bastopcu;10133;3;The Faculty of Engineering;Chemical Engineering;20013
+Erol ozgur;Bastug;10134;1;The Faculty of Engineering;Chemical Engineering;20013
+Atak;Batar;10135;1;The Faculty of Engineering;Chemical Engineering;20013
+Safa;Batga;10136;4;The Faculty of Engineering;Chemical Engineering;20013
+Gokmen;Battal;10137;1;The Faculty of Engineering;Chemical Engineering;20013
+Fazil Erem;Batuk;10138;3;The Faculty of Engineering;Chemical Engineering;20013
+Bensu;Batur;10139;3;The Faculty of Engineering;Chemical Engineering;20013
+Nazim Orhun;Baturalp;10140;4;The Faculty of Engineering;Civil Engineering;20014
+Safa Ahmet;Baydar;10141;3;The Faculty of Engineering;Civil Engineering;20014
+Demircan;Baydil;10142;1;The Faculty of Engineering;Civil Engineering;20014
+Burcin Kubra;Baykal;10143;4;The Faculty of Engineering;Civil Engineering;20014
+Dervis Haluk;Baykan;10144;3;The Faculty of Engineering;Civil Engineering;20014
+Taylan Remzi;Baykus;10145;3;The Faculty of Engineering;Civil Engineering;20014
+Abdulvahap;Bayrakoglu;10146;4;The Faculty of Engineering;Civil Engineering;20014
+Aygun;Bayram;10147;2;The Faculty of Engineering;Civil Engineering;20014
+Ayla;Baytin;10148;3;The Faculty of Engineering;Civil Engineering;20014
+Kubilay Baris;Begic;10149;1;The Faculty of Engineering;Civil Engineering;20014
+Mustafa Samed;Begenilmis;10150;4;The Faculty of Engineering;Computer Engineering;20015
+Berfin Dilay;Bekaroglu;10151;1;The Faculty of Engineering;Computer Engineering;20015
+Ibrahim Onat;Belge;10152;4;The Faculty of Engineering;Computer Engineering;20015
+Jutenya;Benan;10153;2;The Faculty of Engineering;Computer Engineering;20015
+Hulki;Bent;10154;3;The Faculty of Engineering;Computer Engineering;20015
+Mustafa Dogukan;Berberoglu;10155;3;The Faculty of Engineering;Computer Engineering;20015
+Huner;Berk;10156;2;The Faculty of Engineering;Computer Engineering;20015
+Buse Gizem;Berker;10157;4;The Faculty of Engineering;Computer Engineering;20015
+Halime;Beydag;10158;1;The Faculty of Engineering;Computer Engineering;20015
+Didem;Bicaksiz;10159;3;The Faculty of Engineering;Computer Engineering;20015
+Lal;Bilgec;10160;3;The Faculty of Engineering;Mechanical Engineering;20016
+Senay;Bilgen;10161;1;The Faculty of Engineering;Mechanical Engineering;20016
+Remzi;Bilgi;10162;1;The Faculty of Engineering;Mechanical Engineering;20016
+Armagan;Bilgic;10163;1;The Faculty of Engineering;Mechanical Engineering;20016
+celik;Bilgir;10164;1;The Faculty of Engineering;Mechanical Engineering;20016
+Kubra Tansu;Bilgit;10165;2;The Faculty of Engineering;Mechanical Engineering;20016
+Uluc Emre;Binbay;10166;4;The Faculty of Engineering;Mechanical Engineering;20016
+Mehmet Bugrahan;Birgili;10167;2;The Faculty of Engineering;Mechanical Engineering;20016
+Doguscan;Biriz;10168;2;The Faculty of Engineering;Mechanical Engineering;20016
+Altan;Boy;10169;2;The Faculty of Engineering;Mechanical Engineering;20016
+Bengisu;Boya;10170;1;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Onur Taylan;Boylu;10171;2;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Ayseren;Boyuktas;10172;3;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Pekin;Boz;10173;1;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Aksu;Bozdag;10174;1;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Arkan;Bozdemir;10175;4;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Iltem;Boztepe;10176;1;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Betul;Bozyer;10177;1;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Ogun;Bolge;10178;2;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Ibrahim Hakki;Bugey;10179;3;The Faculty of Engineering;Electrical and Electronic Engineering;20017
+Onay;Bugdaypinari;10180;2;The Faculty of Engineering;Industrial Engineering;20018
+Cankiz;Bulgan;10181;3;The Faculty of Engineering;Industrial Engineering;20018
+Arzucan;Bulgur;10182;3;The Faculty of Engineering;Industrial Engineering;20018
+Asiye;Burabak;10183;4;The Faculty of Engineering;Industrial Engineering;20018
+Ahmet Yasin;Burak;10184;1;The Faculty of Engineering;Industrial Engineering;20018
+Yaprak;Bural;10185;2;The Faculty of Engineering;Industrial Engineering;20018
+Aleda;Buyuran;10186;3;The Faculty of Engineering;Industrial Engineering;20018
+Can Guney;Bulbul;10187;3;The Faculty of Engineering;Industrial Engineering;20018
+Mahmut Bilal;Bulend;10188;1;The Faculty of Engineering;Industrial Engineering;20018
+Saliha Zeynep;Bulent;10189;3;The Faculty of Engineering;Industrial Engineering;20018
+Melike Dilara;Buyukfirat;10190;3;The School of Applied Disciplines;International Trade;20019
+Hayriye;Buyukgungor;10191;2;The School of Applied Disciplines;International Trade;20019
+Sebiha;Buyukozturk;10192;4;The School of Applied Disciplines;International Trade;20019
+Mehmet;Can Akcaozoglu;10193;2;The School of Applied Disciplines;International Trade;20019
+Mehmet Enes;Canan;10194;1;The School of Applied Disciplines;International Trade;20019
+Kurtbey;Canbagi;10195;4;The School of Applied Disciplines;International Trade;20019
+Mustafa Taha;Canbek;10196;3;The School of Applied Disciplines;International Trade;20019
+Sena Nur;Candan;10197;4;The School of Applied Disciplines;International Trade;20019
+Abdullah Emirhan;Caner;10198;3;The School of Applied Disciplines;International Trade;20019
+Mustafa Kerem;Cansu;10199;1;The School of Applied Disciplines;International Trade;20019
+Doktora;Canuyar;10200;1;The School of Applied Disciplines;Management Information Systems;20020
+Seyit;Ceran;10201;2;The School of Applied Disciplines;Management Information Systems;20020
+Selma Simge;Ceylan;10202;1;The School of Applied Disciplines;Management Information Systems;20020
+Askim;Chiklyaukova;10203;2;The School of Applied Disciplines;Management Information Systems;20020
+ozgur;Choi;10204;1;The School of Applied Disciplines;Management Information Systems;20020
+Tugce;Cibooglu;10205;3;The School of Applied Disciplines;Management Information Systems;20020
+ozer Seckin;Ciddi;10206;3;The School of Applied Disciplines;Management Information Systems;20020
+Balkin;Cigerlioglu;10207;3;The School of Applied Disciplines;Management Information Systems;20020
+Yucel;Civan;10208;3;The School of Applied Disciplines;Management Information Systems;20020
+sansal;Cosan;10209;3;The School of Applied Disciplines;Management Information Systems;20020
+Oguzcan;Cosandal;10210;4;The School of Applied Disciplines;Tourism Administration;20021
+Mayis;Cumali;10211;1;The School of Applied Disciplines;Tourism Administration;20021
+Busra;Cuce;10212;3;The School of Applied Disciplines;Tourism Administration;20021
+Afra Selcen;cagan;10213;1;The School of Applied Disciplines;Tourism Administration;20021
+Gonul;cagatay;10214;4;The School of Applied Disciplines;Tourism Administration;20021
+Dogangun;caglar;10215;4;The School of Applied Disciplines;Tourism Administration;20021
+Elif Ege;caglayan;10216;3;The School of Applied Disciplines;Tourism Administration;20021
+ozen;cakan;10217;2;The School of Applied Disciplines;Tourism Administration;20021
+Dilhan;cakanel;10218;4;The School of Applied Disciplines;Tourism Administration;20021
+Maral;cakici;10219;4;The School of Applied Disciplines;Tourism Administration;20021
+Mahire;calim;10220;1;The School of Foreign Languages;Advanced English Unit;20022
+Haci Bayram Ufuk;camas;10221;3;The School of Foreign Languages;Advanced English Unit;20022
+Oltun;canga;10222;4;The School of Foreign Languages;Advanced English Unit;20022
+onel;capa;10223;3;The School of Foreign Languages;Advanced English Unit;20022
+Bayulken;caprak;10224;3;The School of Foreign Languages;Advanced English Unit;20022
+Dilseren;carici;10225;4;The School of Foreign Languages;Advanced English Unit;20022
+Elif Beyza;cark;10226;2;The School of Foreign Languages;Advanced English Unit;20022
+Elvan;catal;10227;1;The School of Foreign Languages;Advanced English Unit;20022
+Esim;caylar;10228;1;The School of Foreign Languages;Advanced English Unit;20022
+Sena;cekmecelioglu;10229;3;The School of Foreign Languages;Advanced English Unit;20022
+Muhammed uzeyir;cekmeci;10230;4;The School of Foreign Languages;English Preparatory Division;20023
+Aydin Mert;celebican;10231;1;The School of Foreign Languages;English Preparatory Division;20023
+cagkan;celenlioglu;10232;3;The School of Foreign Languages;English Preparatory Division;20023
+Zumra;celik;10233;4;The School of Foreign Languages;English Preparatory Division;20023
+Bayar;celik;10234;4;The School of Foreign Languages;English Preparatory Division;20023
+Gonulgul;celikagi;10235;2;The School of Foreign Languages;English Preparatory Division;20023
+Ece Pinar;celiker;10236;1;The School of Foreign Languages;English Preparatory Division;20023
+Mehmet Tarik;celikkol;10237;2;The School of Foreign Languages;English Preparatory Division;20023
+Elife;cerci;10238;1;The School of Foreign Languages;English Preparatory Division;20023
+Efecan;cetintas;10239;3;The School of Foreign Languages;English Preparatory Division;20023

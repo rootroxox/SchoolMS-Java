@@ -1,0 +1,51 @@
+﻿name;surname;id;faculty;department;isAdvisor
+Melek Diler;Gunel;20000;The Faculty of Arts and Sciences;Chemistry;1
+Argun;Guneri;20001;The Faculty of Arts and Sciences;Mathematics;1
+Mehmet Yekta;Guneyi;20002;The Faculty of Arts and Sciences;Turkish Language and Literature;1
+Yasemin Erva;Guntek;20003;The Faculty of Arts and Sciences;Physics;1
+Gunan;Gural;20004;The Faculty of Arts and Sciences;Philosophy;1
+Osman Cihan;Gurdemir;20005;The Faculty of Economics and Administrative Sciences;Economics;1
+Okyanus;Gurel;20006;The Faculty of Economics and Administrative Sciences;Management;1
+Mert Alican;Gures;20007;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;1
+Zeynep Doga;Gurses;20008;The Faculty of Education;Computer Education and Educational Technology;1
+Tarik;Guven;20009;The Faculty of Education;Educational Sciences;1
+Birgen;Guvener;20010;The Faculty of Education;Primary Education;1
+Ahmet Korhan;Guzel;20011;The Faculty of Education;Mathematics and Science Education;1
+Manolya;Guzeller;20012;The Faculty of Education;Foreign Language Education;1
+Mustafa Berkay;Guzeloglu;20013;The Faculty of Engineering;Chemical Engineering;1
+Mehmet Anil;Hacialioglu;20014;The Faculty of Engineering;Civil Engineering;1
+Ahmet Furkan;Hacilar;20015;The Faculty of Engineering;Computer Engineering;1
+Fazilet;Hacioglu;20016;The Faculty of Engineering;Mechanical Engineering;1
+Kivilcim;Hadi;20017;The Faculty of Engineering;Electrical and Electronic Engineering;1
+Cisil Hazal;Hafiz;20018;The Faculty of Engineering;Industrial Engineering;1
+Feray;Hakverdi;20019;The School of Applied Disciplines;International Trade;1
+Busranur;Halacoglu;20020;The School of Applied Disciplines;Management Information Systems;1
+Selin Sila;Halicilar;20021;The School of Applied Disciplines;Tourism Administration;1
+Yeter;Hamamcioglu;20022;The School of Foreign Languages;Advanced English Unit;1
+Ramazan Tarik;Hamarat;20023;The School of Foreign Languages;English Preparatory Division;1
+Boran;Hamidi;20024;The School of Foreign Languages;Modern Languages Unit;1
+Tazika Hilal;Hamzaoglu;20025;The Faculty of Arts and Sciences;Chemistry;0
+Aynur Dilan;Hanci;20026;The Faculty of Arts and Sciences;Mathematics;0
+Ayman;Hangul;20027;The Faculty of Arts and Sciences;Turkish Language and Literature;0
+Berrak;Harman;20028;The Faculty of Arts and Sciences;Physics;0
+Erk Deha;Harmankaya;20029;The Faculty of Arts and Sciences;Philosophy;0
+Perihan;Haykir;20030;The Faculty of Economics and Administrative Sciences;Economics;0
+Turhan Onur;Hirlak;20031;The Faculty of Economics and Administrative Sciences;Management;0
+Furkan;Hizarcioglu;20032;The Faculty of Economics and Administrative Sciences;Political Science and International Relations;0
+Mustafa Ali;Hicyilmam;20033;The Faculty of Education;Computer Education and Educational Technology;0
+Muhammed Sefa;Hilal;20034;The Faculty of Education;Educational Sciences;0
+Argun;Hilmi;20035;The Faculty of Education;Primary Education;0
+Fadik;Himoglu;20036;The Faculty of Education;Mathematics and Science Education;0
+Ahmet Hakki;Hirik;20037;The Faculty of Education;Foreign Language Education;0
+Mustafa Sefa;Hopaci;20038;The Faculty of Engineering;Chemical Engineering;0
+Toykan;Horata;20039;The Faculty of Engineering;Civil Engineering;0
+Selime;Huner;20040;The Faculty of Engineering;Computer Engineering;0
+Denizcan;Ilik;20041;The Faculty of Engineering;Mechanical Engineering;0
+Ayse Zeyneb;Iricioglu;20042;The Faculty of Engineering;Electrical and Electronic Engineering;0
+Mustafa Furkan;Isinay;20043;The Faculty of Engineering;Industrial Engineering;0
+Sude;Ibrahim;20044;The School of Applied Disciplines;International Trade;0
+Guclu;Icten;20045;The School of Applied Disciplines;Management Information Systems;0
+Katya;Ilgezdi;20046;The School of Applied Disciplines;Tourism Administration;0
+Halid;Ilhan;20047;The School of Foreign Languages;Advanced English Unit;0
+Nihal;Ilisu;20048;The School of Foreign Languages;English Preparatory Division;0
+Elif Nisan;Imamoglu;20049;The School of Foreign Languages;Modern Languages Unit;0
